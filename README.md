@@ -33,3 +33,6 @@ The goal was to transform raw sales data into a clear, interactive dashboard tha
 ✅ Investigate low-performing regions/categories to understand barriers and improve outreach.
 
 ✅ Introduce data-driven pricing and promotions during peak sales periods to boost revenue further.
+
+<img width="1277" height="723" alt="image" src="https://github.com/user-attachments/assets/fd01e3a1-2e0a-4ccb-9425-97bab1e9c319" />
+
